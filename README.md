@@ -1,5 +1,5 @@
 ### Aopa 👋
-### Não sou tão ativo aqui quanto gostaría, mas tô estudando bastante ;)
+###
 <!--
 **JoaoGabrielChaves/Portifólio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
