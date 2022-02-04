@@ -1,7 +1,6 @@
 ### Olá, me chamo João Gabriel👋
 
-- 💻 I'm currently learning to program on the web
-- 📚 I want to know more about mobile programming in the future.
+- 💻 No momento estou estudando programação web.
 
 <div align="center">
   <a href="https://github.com/JoaoGabrielChaves">
